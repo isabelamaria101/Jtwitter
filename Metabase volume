@@ -1,0 +1,20 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paystand BI Embed</title>
+</head>
+<body style="margin:0; padding:0; display:flex; justify-content:center; align-items:center; height:100vh;">
+    <iframe 
+        src="http://bi.paystand.us/public/question/ddaa8924-050c-4e59-bb66-6077e7508dc1"
+        width="100%" 
+        height="100%" 
+        style="border:none;">
+    </iframe>
+</body>
+</html>
+
+
